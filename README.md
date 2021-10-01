@@ -1,2 +1,2 @@
 # RayAndroidSensor
-this project uses android's sensor to rotate a model
+this is a demo project on how to uses android's sensor
